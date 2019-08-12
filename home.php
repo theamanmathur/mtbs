@@ -125,7 +125,7 @@ function setMovieSelected($mov){
 
 
         <div class="card">
-            <div style="background-image: url(movieIMG/aquaman-et00052996-02-02-2017-10-15-37) ;" class="image">
+            <div style="background-image: url(movieIMG/aquaman-et00052996-02-02-2017-10-15-37.jpg) ;" class="image">
                 <div class="overlay">
                     <div class="btn1">
                         <a href="book%20movie.php?movie=aquaman" class="bk_inf">
@@ -146,7 +146,7 @@ function setMovieSelected($mov){
 
 
         <div class="card">
-            <div style="background-image: url(movieIMG/ekkees-tareeekh-et00085716-05-10-2018-04-51-12) ;" class="image">
+            <div style="background-image: url(movieIMG/ekkees-tareeekh-et00085716-05-10-2018-04-51-12.jpg) ;" class="image">
                 <div class="overlay">
                     <div class="btn1">
                         <a href="book%20movie.php?movie=ekkees%20tareekh" class="bk_inf">
@@ -167,7 +167,7 @@ function setMovieSelected($mov){
 
 
         <div class="card">
-            <div style="background-image: url(movieIMG/fantastic-beasts-the-crimes-of-grindelwald-et00065499-20-11-2017-06-10-21)" class="image">
+            <div style="background-image: url(movieIMG/fantastic-beasts-the-crimes-of-grindelwald-et00065499-20-11-2017-06-10-21.jpg)" class="image">
                 <div class="overlay">
                     <div class="btn1">
                         <a href="book%20movie.php?movie=Fantastic%20Beasts:%20The%20Crimes%20of%20Grindelwald" class="bk_inf">
@@ -184,7 +184,7 @@ function setMovieSelected($mov){
             </div>
         </div>
         <div class="card">
-            <div style="background-image: url(movieIMG/ghoomketu-et00076284-23-05-2018-11-09-40)" class="image">
+            <div style="background-image: url(movieIMG/ghoomketu-et00076284-23-05-2018-11-09-40.jpg)" class="image">
                 <div class="overlay">
                     <div class="btn1">
                         <a href="book%20movie.php?movie=ghoomketu" class="bk_inf">
@@ -201,7 +201,7 @@ function setMovieSelected($mov){
             </div>
         </div>
         <div class="card">
-            <div style="background-image: url(movieIMG/simmba-et00066720-07-12-2017-08-09-13)" class="image">
+            <div style="background-image: url(movieIMG/simmba-et00066720-07-12-2017-08-09-13.jpg)" class="image">
                 <div class="overlay">
                     <div class="btn1">
                         <a href="book%20movie.php?movie=simmba" class="bk_inf">
@@ -218,7 +218,7 @@ function setMovieSelected($mov){
             </div>
         </div>
         <div class="card">
-            <div style="background-image: url(movieIMG/thugs-of-hindostan-et00046165-07-09-2016-02-46-50)" class="image">
+            <div style="background-image: url(movieIMG/thugs-of-hindostan-et00046165-07-09-2016-02-46-50.jpg)" class="image">
                 <div class="overlay">
                     <div class="btn1">
                         <a href="book%20movie.php?movie=Thugs%20of%20Hindostan" class="bk_inf">
@@ -235,7 +235,7 @@ function setMovieSelected($mov){
             </div>
         </div>
         <div class="card">
-            <div style="background-image: url(movieIMG/the-accidental-prime-minister-et00058175-07-06-2017-03-18-15)" class="image">
+            <div style="background-image: url(movieIMG/the-accidental-prime-minister-et00058175-07-06-2017-03-18-15.jpg)" class="image">
                 <div class="overlay">
                     <div class="btn1">
                         <a href="book%20movie.php?movie=The%20Accidental%20Prime%20Minister" class="bk_inf">
@@ -252,7 +252,7 @@ function setMovieSelected($mov){
             </div>
         </div>
         <div class="card">
-            <div style="background-image: url(movieIMG/zero-et00068462-01-01-2018-06-04-40)" class="image">
+            <div style="background-image: url(movieIMG/zero-et00068462-01-01-2018-06-04-40.jpg)" class="image">
                 <div class="overlay">
                     <div class="btn1">
                         <a href="book%20movie.php?movie=Zero" class="bk_inf">
@@ -269,7 +269,7 @@ function setMovieSelected($mov){
             </div>
         </div>
         <div class="card">
-            <div style="background-image: url(movieIMG/mohalla-assi-et00015968-27-04-2018-06-23-29)" class="image">
+            <div style="background-image: url(movieIMG/mohalla-assi-et00015968-27-04-2018-06-23-29.jpg)" class="image">
                 <div class="overlay">
                     <div class="btn1">
                         <a href="book%20movie.php?movie=Mohalla%20Assi" class="bk_inf">
@@ -287,10 +287,10 @@ function setMovieSelected($mov){
         </div>
 
         <div class="card">
-            <div style="background-image: url(movieIMG/2.0)" class="image">
+            <div style="background-image: url(movieIMG/2pointo.jpg)" class="image">
                 <div class="overlay">
                     <div class="btn1">
-                        <a href="book%20movie.php?movie=2.0" class="bk_inf">
+                        <a href="book%20movie.php?movie=2pointo.jpg" class="bk_inf">
                             Book
                         </a>
                     </div>
@@ -305,7 +305,7 @@ function setMovieSelected($mov){
         </div>
 
         <div class="card">
-            <div style="background-image: url(movieIMG/spider-man-into-the-spider-verse-et00066988-11-12-2017-11-33-21)" class="image">
+            <div style="background-image: url(movieIMG/spider-man-into-the-spider-verse-et00066988-11-12-2017-11-33-21.jpg)" class="image">
                 <div class="overlay">
                     <div class="btn1">
                         <a href="book%20movie.php?movie=Spider-Man:%20Into%20The%20Spider-Verse" class="bk_inf">
@@ -323,7 +323,7 @@ function setMovieSelected($mov){
         </div>
 
         <div class="card">
-            <div style="background-image: url(movieIMG/kedarnath-et00059532-10-07-2017-04-48-38)" class="image">
+            <div style="background-image: url(movieIMG/kedarnath-et00059532-10-07-2017-04-48-38.jpg)" class="image">
                 <div class="overlay">
                     <div class="btn1">
                         <a href="book%20movie.php?movie=Kedarnath" class="bk_inf">
