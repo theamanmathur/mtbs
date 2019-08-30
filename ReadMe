@@ -1,1 +1,4 @@
+This project provides the customer with a hassle-free service for booking movie tickets online & avoid standing in long queues. 
+The user can view movies released, number of seats available, show timings, etc. Tickets can also be cancelled if needed.
+
 index.html is the homepage and mtbs.sql is the SQL database file which can be imported in phpmyadmin.
